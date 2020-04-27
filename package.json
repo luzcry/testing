@@ -4,7 +4,8 @@
   "description": "pruebas unitarias",
   "main": "truthness.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:coverage": "jest --coverage"
   },
   "author": "Platzi",
   "license": "MIT",
