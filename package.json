@@ -5,7 +5,8 @@
   "main": "truthness.js",
   "scripts": {
     "test": "jest",
-    "test:coverage": "jest --coverage"
+    "test:coverage": "jest --coverage",
+    "test:watch": "jest --watch"
   },
   "author": "Platzi",
   "license": "MIT",
